@@ -6,7 +6,7 @@ author:
   - name: "Javier Coripaco, Jhordy"
   - name: "Navarro Romero, Jack Lazaro"
   - name: "Orozco Ayala, Joaquin Alessandro"
-date: "`r Sys.Date()`"
+date: "2024"
 format:
   html:
     toc: true
